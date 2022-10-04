@@ -1,0 +1,19 @@
+#biscoito button {
+    background-color: rgb(43, 43, 43);
+    border: none;
+}
+
+#biscoito img {
+    width: 20rem;
+    height: 20rem;
+}
+
+#biscoito img:hover {
+    filter: contrast(150%);
+}
+
+#biscoito img:active {
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+    width: 19rem;
+    height: 19rem;
+}

@@ -1,0 +1,13 @@
+#conteiner {
+    margin: auto;
+    width: 20rem;
+    text-align: center;
+    display: contents;
+}
+
+#texto {
+    font-size: 48pt;
+    font-weight: 300;
+    font-family: monospace;
+    color: rgb(139, 139, 139);
+}
