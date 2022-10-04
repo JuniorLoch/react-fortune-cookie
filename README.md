@@ -54,7 +54,9 @@ $ npm start
 
 ### Obs: The app translate all the fortunes to `brazilian portuguese`
 
-### if you want it to display the fortunes in english, change the lines from [`clicarBotao()`](https://github.com/JuniorLoch/react-fortune-cookie/blob/main/Fortune%20cookie/src/App.js#:~:text=%7D-,async%20clicarBotao()%20%7B,%7D,-async%20msgAleatoria()
+### if you want it to display the fortunes in english, change the lines from [clicarBotao](https://github.com/JuniorLoch/react-fortune-cookie/blob/9b1836adacb2296c3d075c7a6324ccd4ec0b7e4a/Fortune%20cookie/src/App.js#L34)
+
+
 
 ### from:
 
